@@ -1,0 +1,18 @@
+# Binaries for programs and plugins
+*.dll
+*.so
+*.dylib
+**/*.tfstate
+**/*.tfstate.backup
+**/.terraform*
+*.log
+setenv.sh
+request_log
+.DS_Store
+dist/
+pkg/
+terraform-provider-device42
+bin/*
+*.tf
+*.rpm
+vendor
